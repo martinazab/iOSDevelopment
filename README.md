@@ -1,10 +1,10 @@
-# Prework - *Name of App Here*
+# Prework - *Creating a Button*
 
-Submitted by: **Your Name Here**
+Submitted by: Martina Azabo
 
-**Name of your app** is an app that... [TODO] 
+Creating a Button is an app that allows the background color to change whenever the button is clicked 
 
-Time spent: **X** hours spent in total
+Time spent: 1 hour(s) spent in total
 
 ## Required Features
 
